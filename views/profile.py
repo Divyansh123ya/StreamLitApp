@@ -7,7 +7,7 @@ with col1:
 with col2:
     st.write('Name: Divyansh Rajpoot')
     st.write('Email: divyansh123ya@gmail.com')
-st.divider
+st.divider()
 data = {
     "Level": ["10th", "12th", "Graduation 1st year","Graduation 2nd year"],
     "Board/University": ["CBSE", "CBSE", "ABES Engineering College","ABES Engineering College"],
