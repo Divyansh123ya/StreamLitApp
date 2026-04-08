@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-st.title('Streamlit App')
+st.title('Resume')
 
 home_page = st.Page(
     page='views/home.py',
